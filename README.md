@@ -16,25 +16,25 @@ Se utiliza el sistema de gestion de base de datos **MongoDB** para realizar la p
 
 4. Posteriormente, en la tab *Deployment* se procede a presionar el boton *Connect* a traves de la opcion *Connect using MongoDB Compass*.
 
-![compass option](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/02_connect_mongodb_compass_option.png)
+![compass option](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/02_connect_mongodb_compass_option.png)
 
-![compass option](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/03_mongodb_compass_option.png)
+![compass option](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/03_mongodb_compass_option.png)
 
 5. Una que se seleccionada la opcion, se selecciona la alternativa *I have MongoDB Compass* y se copia la *URI* que permite la conexion desde la aplicacion de escritorio, `mongodb+srv://<username>:<password>@cluster0.pzoqn.mongodb.net/test`.
 
 6. Seguidamente, desde la version de escritorio *MongoDB Compass* se crea la base de datos *iot* y la coleccion *facturas* como se puede ver en las siguientes imagenes. 
 
-![db creation](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/05_db_creation.png)
+![db creation](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/05_db_creation.png)
 
-![iot db](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/06_iot_db.png)
+![iot db](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/06_iot_db.png)
 
-![iot collection](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/07_iot_facturas_collection.png)
+![iot collection](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/07_iot_facturas_collection.png)
 
-![iot collection detail](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/08_iot_facturas_detail.png)
+![iot collection detail](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/08_iot_facturas_detail.png)
 
 7. Finalmente, se clickea en la zona inferior la terminal *MONGOSH*
 
-![mongosh](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/09_mongosh.png)
+![mongosh](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/09_mongosh.png)
 
 </details>
 
