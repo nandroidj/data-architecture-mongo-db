@@ -10,7 +10,7 @@ Se utiliza el sistema de gestion de base de datos **MongoDB** para realizar la p
 
 2. Luego, se procede a acceder al entorno [cloud de MongoDB](https://cloud.mongodb.com/) con la cuenta creada. 
 
-![data base creation](https://github.com/nandroidj/CEIoT/blob/main/02b/02-data-architecture/tps/tp-02/data-architecture-mongo-db/docs/imgs/01_db_deployment.png)
+![data base creation](https://github.com/nandroidj/data-architecture-mongo-db/blob/main/docs/imgs/01_db_deployment.png)
 
 3. Para crear la base de datos se configuran las credenciales, el usuario y la contraseña, y se agrega la *IP* de la red que se esta utilizando actualmente.
 
